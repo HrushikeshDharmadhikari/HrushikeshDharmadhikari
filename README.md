@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HrushikeshDharmadhikari
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Game Dev
 - 📫 How to reach hrushiracer@gmail.com
 
 <!---
