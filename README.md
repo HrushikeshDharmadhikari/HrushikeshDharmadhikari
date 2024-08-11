@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HrushikeshDharmadhikari
+# @HrushikeshDharmadhikari
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning shell implementation in C
 - 📫 How to reach: hrushiracer@gmail.com
