@@ -1,6 +1,6 @@
 # @HrushikeshDharmadhikari
 - 👀 I’m interested in low-level programming 
-- 🌱 I’m currently learning shell implementation in C
+- 🌱 I’m currently learning ARM assembly
 - 📫 How to reach: hrushiracer@gmail.com
 - 🇮🇳 Proudly Indian 🇮🇳
 
